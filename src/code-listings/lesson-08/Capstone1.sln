@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Capstone1", "Capstone1.fsproj", "{89D2850F-097B-4D17-9AC2-C08591A97F56}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Capstone1b", "..\Capstone1b\Capstone1b.fsproj", "{2C34427B-1572-453D-BEB1-A61BCD92C396}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{89D2850F-097B-4D17-9AC2-C08591A97F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89D2850F-097B-4D17-9AC2-C08591A97F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89D2850F-097B-4D17-9AC2-C08591A97F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C34427B-1572-453D-BEB1-A61BCD92C396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C34427B-1572-453D-BEB1-A61BCD92C396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C34427B-1572-453D-BEB1-A61BCD92C396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C34427B-1572-453D-BEB1-A61BCD92C396}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBD0238E-6005-4541-8F39-4BA0E23A115C}
 	EndGlobalSection
 EndGlobal
